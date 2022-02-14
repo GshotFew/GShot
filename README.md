@@ -39,7 +39,7 @@ For AIDS-ca:`aids_ca`, Enzyme: `enzyme` , Spring: `spring`.
 
 - `dfscode/dfs_code.cpp` calculates the minimum DFS code required by GraphGen. It is adapted from [kaviniitm](https://github.com/kaviniitm/DFSCode).
 
--`dfscode/dfs_wrapper.py` is a python wrapper for the cpp file.
+- `dfscode/dfs_wrapper.py` is a python wrapper for the cpp file.
 
 
 
