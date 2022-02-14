@@ -1,0 +1,30 @@
+V01 - AMINOPENICILLINSAEURE
+V02 - Unknown Name
+V03 - DIPHENYLMETHANE
+V04 - Unknown Name
+V05 - DIMETHYL-ANILINE
+
+V08 - Unknown Name2
+V09 - Aniline
+V10 - Toluene
+V11 - Benzene
+V12 - Piperidine
+V13 - Pyridine
+V14 - DIETHYL-AMINE`
+V15 - ETHYLESTER
+V16 - DIMETHYL-ETHYL-AMINE
+
+V17 - N-HYDROXYETHYL-N-METHYLAMINE
+V18 - Propanale
+V19 - Propene
+V20 - Ethanole
+Pyridyl - added
+HaloBenzene (ChloroBenzene)
+HaloBenzene (FluoroBenzene)
+HaloBenzene (IodoBenzene)- added
+HaloBenzene (BromoBenzene) - added
+Phosphono -added
+Phosphate - added
+Azide - added
+Thiocyanate - added
+Isothiocyanate - added

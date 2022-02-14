@@ -1,0 +1,9 @@
+eden==2.1.14
+eden_kernel==0.0.0
+networkx==2.2
+numpy==1.19.3
+pyemd==0.5.1
+scikit_learn==1.0.2
+scipy==1.1.0
+torch==1.8.0+cu111
+tqdm==4.28.1
