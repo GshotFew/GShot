@@ -22,6 +22,9 @@ pip install -r requirements.txt
 * `python evaluate_n.py leukemia`   :  **Evaluation on Leukemia** 
 
 
+Here leukemia is the name of the config file present in `configs/` folder.
+For AIDS-ca:`aids_ca`, Enzyme: `enzyme` , Spring: `spring`.
+
 ### Code description
 
 1. `meta_main_n.py` is the main script file of GShot, and specific arguments are set in configs/`<Specific file>`
