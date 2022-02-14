@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ./build.sh
 ```
 
-# Training scripts:
+# Scripts to Run GShot:
 * `python meta_main_n.py leukemia`   :  **Training GShot Meta-Model** 
 * `python tune_main_n.py leukemia`   :  **Fine-Tuning GShot for Leukemia** 
 * `python evaluate_n.py leukemia`   :  **Evaluation on Leukemia** 
@@ -35,6 +35,7 @@ pip install -r requirements.txt
 ### DFS code generation:
 
 - `dfscode/dfs_code.cpp` calculates the minimum DFS code required by GraphGen. It is adapted from [kaviniitm](https://github.com/kaviniitm/DFSCode).
+
 -`dfscode/dfs_wrapper.py` is a python wrapper for the cpp file.
 
 
