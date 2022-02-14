@@ -27,8 +27,8 @@ inner_steps = 15
 weight_decay_meta_train = 0.00001 #curr
 load_epoch_tune = 50   ### tell which model to meta test tune on
 
-weight_decay = 0.00001 #good without curr
-load_epoch_eval = 80    #### good without curr v good extremely amazing 0.000001  9.5 1.001
+weight_decay = 0.00001 
+load_epoch_eval = 80   
 
 threshold = 9.5
 growing_factor = 1.001 
