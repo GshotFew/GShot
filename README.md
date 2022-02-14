@@ -69,7 +69,7 @@ For AIDS-ca:`aids_ca`, Enzyme: `enzyme` , Spring: `spring`.
 
 ### GraphGen 
 - `python main_n.py aids_ca_single`  **Training GraphGen on AIDS-CA dataset** 
-- `python evaluate_n.py aids_ca_single`  **Evaluating GraphRNN on AIDS-CA dataset** 
+- `python evaluate_n.py aids_ca_single`  **Evaluating GraphGen on AIDS-CA dataset** 
 
 
 ### GraphRNN
