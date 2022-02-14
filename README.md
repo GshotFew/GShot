@@ -32,8 +32,6 @@ For AIDS-ca:`aids_ca`, Enzyme: `enzyme` , Spring: `spring`.
 3. `train.py` model specific training files.
 4. `datasets/preprocess.py` and `util.py` contain dataset processing functions.
 5. `datasets/process_dataset.py` reads graphs from different data formats.
-6. `graphgen/model.py` model files
-
 
 ### DFS code generation:
 
