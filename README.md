@@ -27,8 +27,8 @@ For AIDS-ca:`aids_ca`, Enzyme: `enzyme` , Spring: `spring`.
 
 ### Code description
 
-1. `meta_main_n.py` is the main script file of GShot, and specific arguments are set in configs/`<Specific file>`
-2. `tune_main_n.py` is the fine-tuning script file of GShot and specific arguments are set in configs/`<Specific file>`
+1. `meta_main_n.py` is the main script file of GShot, and specific arguments are set in configs/`<Config_Filename>`
+2. `tune_main_n.py` is the fine-tuning script file of GShot and specific arguments are set in configs/`<Config_Filename>`
 3. `train.py` model specific training files.
 4. `datasets/preprocess.py` and `util.py` contain dataset processing functions.
 5. `datasets/process_dataset.py` reads graphs from different data formats.
