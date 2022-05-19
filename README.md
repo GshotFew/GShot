@@ -1,4 +1,4 @@
-# GShot: Few Shot Labeled Graph Generative Modeling
+# GSHOT: Few-shot Generative Modeling of Labeled Graphs
 
 
 ## Installation
