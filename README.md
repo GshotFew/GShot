@@ -1,4 +1,4 @@
-# GSHOT: Few-shot Generative Modeling of Labeled Graphs
+# Generative Modeling of Labeled Graphs under Data Scarcity
 
 
 ## Installation
