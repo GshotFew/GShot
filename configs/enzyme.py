@@ -21,8 +21,8 @@ num_eval_train = 50
 num_eval_test = 80
 ### extra variable for test graphs
 USE_FOR_TRAINING = 50 ### fine tuning
-alpha = 0.8
-inner_steps = 15
+alpha = 0.5
+inner_steps = 50
 
 weight_decay_meta_train = 0.00001 #curr
 load_epoch_tune = 50   ### tell which model to meta test tune on
